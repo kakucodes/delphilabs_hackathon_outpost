@@ -15,7 +15,7 @@ Please note that this is still a pre-release version and breaking changes are ex
           {
             "destination": {
               "token_swap": {
-                "target_denom": 'uusdc"
+                "target_denom": "uusdc"
               }
             },
             "amount": "250000000000000000"
