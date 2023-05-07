@@ -28,3 +28,5 @@ Testing and the grants query are still in progress on all fronts. These must be 
 | [utils](./packages/utils/README.md)                     | Base utilities for building outposts                          |
 | [osmosis-helpers](./packages/osmosis-helpers/README.md) | Helpers for interacting with Osmosis DEX                      |
 | red-bank-helpers                                        | Helpers for interacting with Mars Red Bank Outpost on Osmosis |
+
+The companion chain code for the hackathon is available [here](https://github.com/Temporal-Network/temporal)
